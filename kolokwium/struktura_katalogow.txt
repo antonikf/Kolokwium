@@ -1,0 +1,9 @@
+.
+├── kolokwium
+│   ├── scierzka.txt
+│   └── wynik.txt
+├── README.md
+├── struktura_katalogow.txt
+└── zadanie
+
+2 directories, 5 files
